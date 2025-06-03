@@ -10,6 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "@captur-ai/captur-react-native-events": "^0.6.0",
     "react": "19.0.0",
     "react-native": "0.79.2"
   },
